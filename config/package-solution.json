@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "quiz-test-client-side-solution",
+    "id": "1cda7e9b-35fb-4d2f-99fe-64783327f4f7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0-beta.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "quiz-test description"
+      },
+      "longDescription": {
+        "default": "quiz-test description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "quiz-test Feature",
+        "description": "The feature that activates elements of the quiz-test solution.",
+        "id": "1ee88f19-0b83-4eef-9377-22998cb9ecfe",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/quiz-test.sppkg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0-beta.0",
+    "libraryName": "quiz-test",
+    "libraryId": "1cda7e9b-35fb-4d2f-99fe-64783327f4f7",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "quiz-test",
+    "solutionShortDescription": "quiz-test description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
